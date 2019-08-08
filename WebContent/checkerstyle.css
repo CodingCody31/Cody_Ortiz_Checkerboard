@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body{
+	text-align: center;
+	line-height: 0px;
+}
+.purple{
+	width: 60px;
+	height: 60px;
+	display: inline-block;
+	background-color: purple;
+	margin:-1px;
+}
+.blue{
+	width: 60px;
+	height: 60px;
+	display: inline-block;
+	background-color: blue;
+	margin:-1px;
+	
+}
